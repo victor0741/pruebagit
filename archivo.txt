@@ -1,4 +1,10 @@
-#Bebidas
+#Bebidas del sábado
 1. Chocomilk frío
 2. Malteada de Oreo
 3. Miche
+
+#Comida del Domingo
+1. Tacos Dorados
+2. Carnitas
+3. pozole
+
